@@ -1,0 +1,1 @@
+# (Alias) Banco de Dados — ver `Banco_de_Dados.md`
